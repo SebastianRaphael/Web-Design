@@ -326,8 +326,8 @@ table.contact tr :nth-child(4){
 .logo-news a:hover{background-position:-50px -100px;}	
 /*SPRITS END*/
 .container { 
-	max-width: 960px;
-	margin: 0 auto;
+	width: 90%;
+	margin: 0 0;
   /*	margin-left: auto;
   	margin-right: auto;
   	background:  url(../Images/color-tile.png) left top repeat-x,#fff url(../Images/color-tile.png) left bottom repeat-x;
@@ -540,4 +540,5 @@ table.contact tr :nth-child(4){
 .group{
  	zoom :1;
 }
+
 /*FLOAT CLEAR END*/

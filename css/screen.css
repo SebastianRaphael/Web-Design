@@ -326,7 +326,7 @@ table.contact tr :nth-child(4){
 .logo-news a:hover{background-position:-50px -100px;}	
 /*SPRITS END*/
 .container { 
-	width: 90%;
+	width: 100%;
 	margin: 0 0;
   /*	margin-left: auto;
   	margin-right: auto;
@@ -542,3 +542,4 @@ table.contact tr :nth-child(4){
 }
 
 /*FLOAT CLEAR END*/
+
